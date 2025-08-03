@@ -1,9 +1,7 @@
 {
   "id": "whatthebalatro",
   "name": "What the Balatro?",
-  "author": [
-    "Ayden"
-  ],
+  "author": ["Ayden"],
   "description": "A Balatro mod themed around shitposts, while attempting to still be balanced.",
   "prefix": "wtb",
   "main_file": "main.lua",
@@ -13,4 +11,5 @@
   "badge_text_colour": "FF0000",
   "dependencies": [
     "Steamodded (>=1.0.0~BETA-0711a)"
+  ]
 }
