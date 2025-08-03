@@ -1,4 +1,5 @@
 # What the Balatro?
+![Logo](Logo.png) <br>
 My personal shitpost mod for Balatro, which tries to have some balancing. <br>
 <br>
 **Links**: <br>
